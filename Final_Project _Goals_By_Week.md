@@ -26,8 +26,8 @@
 - [ ] Set Up File Upload and Management (1 page)
 - [ ] Add View and Detail Pages for Cases (2 pages)
 - [ ] Develop Simple Responsive UI
-- [ ] Build Contact Page
-- [ ] Build About Page
+- [x] Build Contact Page
+- [x] Build About Page
 - [ ] Build Login Page
 - [ ] Build API Endpoints for Case Management
 - [ ] CI/CD and Deployment with Docker
@@ -40,16 +40,16 @@
 
 ### Weekly Task Breakdown
 
-| Date     | Tasks for Completion                                                                                     | Projected Full Rubric Evaluation              |
-|----------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| Nov 6    | Set up repository, build about page, and contact page                                                     | Basic setup and foundational pages            |
-| Nov 9    | Create patient and doctor dashboards, start API for case management                                       | Dashboard setup and API structure             |
-| Nov 13   | Implement case submission and response system, complete API endpoints for cases                           | Case management functionality                 |
-| Nov 16   | Develop file upload functionality, add API endpoint for file uploads                                      | Secure file management for cases              |
-| Nov 20   | Add view and detail pages for cases, complete basic UI components                                         | Improved case navigation and usability        |
-| Nov 23   | Build and refine login page, finalize responsive design                                                   | Enhanced user experience and accessibility    |
-| Nov 26   | Set up CI/CD with Docker, deploy on staging                                                              | Ready for testing on staging environment      |
-| Dec 4    | Final testing, polish UI, prepare for final deployment                                                    | Ready for production                          |
+| Date     | Tasks for Completion                                                                                     | Projected Full Rubric Evaluation              | Comments                                     | Status                  |
+|----------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|----------------------------------------------|-------------------------|
+| Nov 6    | Set up repository, build about page, and contact page                                                     | Basic setup and foundational pages            | Establish initial project structure          | In Progress             |
+| Nov 9    | Create patient and doctor dashboards, start API for case management                                       | Dashboard setup and API structure             | Foundation for patient-doctor interactions   | Not Started             |
+| Nov 13   | Implement case submission and response system, complete API endpoints for cases                           | Case management functionality                 | Enables main functionality of application    | Not Started             |
+| Nov 16   | Develop file upload functionality, add API endpoint for file uploads                                      | Secure file management for cases              | Ensures secure and accessible case files     | Not Started             |
+| Nov 20   | Add view and detail pages for cases, complete basic UI components                                         | Improved case navigation and usability        | Allows efficient review of patient cases     | Not Started             |
+| Nov 23   | Build and refine login page, finalize responsive design                                                   | Enhanced user experience and accessibility    | Responsive UI and accessible login           | Not Started             |
+| Nov 26   | Set up CI/CD with Docker, deploy on staging                                                              | Ready for testing on staging environment      | Prepares application for staging tests       | Not Started             |
+| Dec 4    | Final testing, polish UI, prepare for final deployment                                                    | Ready for production                          | Final adjustments for a smooth deployment    | Not Started             |
 
 ### Check-In Schedule
 
