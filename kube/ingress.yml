@@ -2,7 +2,7 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: demo-app-ingress
-  namespace: telehealth-client
+  namespace: telehealth-api
 spec:
   rules:
   - host: telehealth.duckdns.org
