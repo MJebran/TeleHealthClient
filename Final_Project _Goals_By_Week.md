@@ -48,7 +48,7 @@
 | Nov 16   | Develop file upload functionality, add API endpoint for file uploads                                      | Secure file management for cases              | Ensures secure and accessible case files     | Not Started             |
 | Nov 20   | Add view and detail pages for cases, complete basic UI components                                         | Improved case navigation and usability        | Allows efficient review of patient cases     | Not Started             |
 | Nov 23   | Build and refine login page, finalize responsive design                                                   | Enhanced user experience and accessibility    | Responsive UI and accessible login           | Not Started             |
-| Nov 26   | Set up CI/CD with Docker, deploy on staging                                                              | Ready for testing on staging environment      | Prepares application for staging tests       | Not Started             |
+| Nov 26   | Set up CI/CD with Docker, deploy on staging                                                              | Ready for testing on staging environment      | Prepares application for staging tests       | Started             |
 | Dec 4    | Final testing, polish UI, prepare for final deployment                                                    | Ready for production                          | Final adjustments for a smooth deployment    | Not Started             |
 
 ### Check-In Schedule
