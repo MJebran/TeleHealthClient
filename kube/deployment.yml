@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ${DOCKERHUB_USERNAME}/inventory-client:${IMAGE_TAG}
+          image: ${DOCKERHUB_USERNAME}/telehealth-client:${IMAGE_TAG}
           env:
             - name: VITE_API_URL
               value: "https://telehealth.duckdns.org"
